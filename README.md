@@ -98,7 +98,7 @@ Built a comprehensive three-page Power BI dashboard to analyze customer churn pa
 
 - **Power BI Desktop** - Primary tool for data visualization and dashboard creation
 - **Power Query** - Data cleaning, transformation, and preparation
-- **DAX (Data Analysis Expressions)** - Created 7+ calculated measures and custom columns
+- **DAX (Data Analysis Expressions)** - Created calculated measures and custom columns
 - **Data Source:** IBM Telco Customer Churn dataset from Kaggle (7,043 records, 21 features)
 
 ## Technical Implementation
